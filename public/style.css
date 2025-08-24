@@ -1,0 +1,51 @@
+/* Corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+/* Cabeçalho */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 50%;
+}
+
+/* Navegação */
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+/* Títulos das seções */
+h2 {
+    color: #cc0000;
+    margin-top: 20px;
+}
+
+/* Listas */
+ul {
+    margin-left: 20px;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #555;
+}
